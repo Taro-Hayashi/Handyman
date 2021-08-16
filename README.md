@@ -10,37 +10,38 @@
 ![パーツ一覧](img/parts.jpg)  
 ||部品名|数| |
 |-|-|-|-|
-|1|メインボード|1|黒色PCB・レバースイッチはんだ済み|
+|1|メインボード|1|PCB|
 |2|ミドルプレート1|1|透明アクリル・穴の開いている方|
 |3|ミドルプレート2|1|透明アクリル|
-|4|ボトムプレート|1|黒色PCB|
+|4|ボトムプレート|1|PCB|
 |5|保護プレート|1|透明アクリル・小さい|
-|6|ネジ（短）|4|3mm|
-|7|ネジ（中）|2|4mm|
-|8|ネジ（長）|6|6mm|
-|9|スペーサー（短）|6|3mm|
-|10|スペーサー（中）|2|4mm|
-|11|ダイオード|13||
+|6|ネジ（短）|8|3mm|
+|7|ネジ（中）|3|4mm|
+|8|ネジ（長）|11|6mm|
+|9|スペーサー（短）|8|3mm|
+|10|スペーサー（中）|3|4mm|
+|11|ダイオード|26|1N4148|
 |12|リセットスイッチ|1||
-|13|ロータリーエンコーダ（水平型）|1||
+|13|ロータリーエンコーダ（水平型）|1|EC11互換品|
 |14|ノブ|1||
-|15|ロータリーエンコーダ（ホイール）|2||
-|16|ゴム足|4||
+|15|ロータリーエンコーダ（ホイール）|2|EVQWGD001|
+|16|レバースイッチ|1|SLLB120300, THMU28|
+|17|ゴム足|4||
 
 ## キット以外に必要なもの
 |部品名|数|||
 |-|-|-|-|
 |Pro Micro コンスルー付き|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
-|キースイッチ|9|Kailhロープロファイル（V1, V2)||
-|キーキャップ|9|対応するもの|1Uが8個、2Uが1個|
+|キースイッチ|22|Kailhロープロファイル（V1, V2)||
+|キーキャップ|22|対応するもの|1Uが8個、2Uが1個|
 |Micro USB ケーブル|1||
   
 ## オプション
 |部品名|数|||
 |-|-|-|-|
-|表面実装タイプのダイオード|13||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800di-02-100)|
-|SK6812MINI-E|9|光らせたい場合。[取り付け方](led.md)|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
-|WS2812B|3|無くてもバックライトだけ光ります。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800ws-01-10)|
+|表面実装タイプのダイオード|22||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800di-02-100)|
+|SK6812MINI-E|22|光らせたい場合。[取り付け方](led.md)|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
+|WS2812B|6|無くてもバックライトだけ光ります。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800ws-01-10)|
  
 ## 必要な工具
 |工具名| |
@@ -48,7 +49,10 @@
 |はんだごて||
 |はんだごて置き場||
 |鉛入りはんだ||
-|細いドライバー|+の1番ドライバー。|
+|フラックス||
+|ピンセット||
+|細い+ドライバー|1番ドライバー。|
+|細い-ドライバー|先端の幅が2mm以下のもの|
 |ニッパー等ダイオードの足を切れるもの|金属用でない場合刃こぼれします。|
 |Microsoft Edge、もしくはGoogle Chrome||
 
@@ -58,8 +62,6 @@
 |耐熱シリコンマット||
 |斜めに切ったタイプのこて先||
 |温度調節可能なはんだごて|300度-350度前後|
-|ピンセット|LEDには必須|
-|フラックス|LEDには必須|
 |テスター||
 |フラックスリムーバー||
 |マスキングテープ||
@@ -72,7 +74,7 @@
 パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
  - ホームセンターのDCMさんの解説動画(58秒～) https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s
   
-それではダイオードをD1からD13まで取り付けます。  
+それではダイオードをD1からD26まで取り付けます。  
 足を曲げて裏から差し込みます。  
 ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
 ![](img/diode1.jpeg)  
@@ -82,6 +84,18 @@
 ![](img/diode2.jpeg)  
 
 はんだ付けをして足を切ります。  
+![](img/diode3.jpeg)  
+
+レバースイッチを取り付けます。
+取り付け難易度が高いので無視してしまっても構いません。
+フラックスを塗って位置決め用の穴に合わせて乗せます。
+![](img/lever1.png) 
+
+ピンセットでレバースイッチを押さえながらはんだごてに乗せたはんだを手前のパターンにのせていきます。
+![](img/lever2.png) 
+
+左右はレバーを左手で押さえながらはんだ付けします。
+![](img/lever3.png) 
 
 リセットスイッチを裏から差し込み表ではんだ付けします。  
 ![](img/reset.png)  
@@ -94,17 +108,27 @@
 挿すだけではんだ付けはしません。  
 ![](img/conn.jpeg)   
 
-
 コンスルーにPro Microを挿します。TX0, RAW, USBの位置をシルク印刷と合わせましょう。  
 そして、Pro Micro側のコンスルーの足を半田付けします。  
 ![](img/promicro.jpeg)   
+
+SW12、SW14に表からホイール型のロータリーエンコーダーを取り付けます。
+ピンの位置を確認してツメを穴に差し込みます。
+![](img/wheel1.png) 
+ツメを穴に引っかけてからピンを穴に差し込みます。
+ピンを曲げてしまわないように注意してください。
+![](img/wheel2.png) 
+差し込めたらはんだ付けします。
+![](img/wheel3.png) 
+SW20に表から水平型のロータリーエンコーダーを取り付けて裏からはんだ付けします。
+![](img/rot1.png) 
 
 ## 動作テスト
 Pro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
 キットとPCをUSBケーブルでつないでください。   
 
 ファームウェアをダウンロードしてPro Micro Web Updaterにアクセスしてください。
-- テスト用ファームウェア [shotgun_test.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun_test.hex)
+- テスト用ファームウェア [handyman_test.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
@@ -118,7 +142,7 @@ Pro Microに動作ソフト（ファームウェア）を書き込んで動作�
 ![](img/promicrowebupdater3.jpg)  
 ファームウェアを更新する時もこの手順で行います。  
 
-すべてのスイッチで何らかの数字が打てるはずです（1-21)。  
+すべてのスイッチで何らかの数字が打てるはずです（1-)。  
 
 お疲れ様でした。問題がなければはんだ付けは終了です。
 
@@ -128,7 +152,7 @@ USBケーブルを抜いてプレートを組付けます。
 
 ![](img/botto1.jpg)  
 メインボードの赤丸のネジ穴にスペーサー（中）とスペーサー（短）を止めます。  
-図のように部品がついてる側にスペーサー（中）があるようにしてください。  
+画像のようにスイッチがついてる側にスペーサー（中）があるようにしてください。  
 ![](img/bottom2.jpg)  
   
 メインボード裏面のネジ穴にスペーサー（短）をネジ（短）で取り付けてミドルプレート1（透明）を嵌めます。
@@ -137,11 +161,11 @@ USBケーブルを抜いてプレートを組付けます。
 ミドルプレート2とバックプレートをネジ（長）で止めます。
 ![](img/bottom4.jpg)  
 
-表に保護プレートを取り付けましょう。
+表に保護プレートをネジ（中）で取り付けましょう。
 ![](img/bottom5.jpg)  
 
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
-- [shotgun_via.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun_via.hex)
+- [handyman_via.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun_via.hex)
 
 ゴム足を貼ったら完成です。
 ![](img/rubber.jpg)  
@@ -165,12 +189,12 @@ ChromeかEdgeでRemapにアクセスしてください。
   
 ## その他
 ファームウェアのフォルダ  
-https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/cannonball
+https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/handyman
   
-VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.json)  
+VIA用JSONファイル [handyman.json]()  
   
-ミドル、ボトムプレートのデザインデータ  
-[shotgun_plates.zip](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.zip)  
+プレートのデザインデータ  
+[handyman_plates.zip]()  
 発注先のルールに沿ってデータを修正してください。  
 
 ご不明な点があればBOOTHのメッセージやtwitterでいつでも聞いてください。  
