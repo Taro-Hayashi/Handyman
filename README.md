@@ -192,6 +192,7 @@ USBケーブルを抜いてプレートを組付けます。
 - [handyman_via.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun_via.hex)
 
 マイナスドライバーでノブを取りつけ、ゴム足を貼ったら完成です。
+![](img/nob.jpg)  
 ![](img/rubber.jpg)  
 ![](img/done.jpeg)  
 
