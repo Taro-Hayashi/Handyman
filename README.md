@@ -114,7 +114,7 @@
 ここの二つのスイッチはPro Microと接触する可能性があるので、足を切ってからはんだ付けします。
 ![](img/keyswitch2.jpg)  
 choc V1スイッチの場合、足が一か所干渉するので短くカットしてください。
-![](img/keyswitch23.jpg)  
+![](img/keyswitch3.jpg)  
   
 メインボードの裏にコンスルーを挿します。  
 ![](img/promicro1.jpg)   
