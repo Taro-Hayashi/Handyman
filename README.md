@@ -195,7 +195,7 @@ USBケーブルを抜いてプレートを組付けます。
 ![](img/nob.jpg)  
 ノブは20mmのものまで取り付けを確認しました。  
 ![](img/rubber.jpg)  
-![](img/done.jpeg)  
+![](img/full.jpeg)  
 
 ## キーマップの確認、変更方法
 標準ではClip Studio Paintにあわせたキーマップになっています。  
