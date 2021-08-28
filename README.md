@@ -218,9 +218,6 @@ VIA用JSONファイル [handyman.json]()
 プレートのデザインデータ  
 [handyman_plates.zip]()  
 発注先のルールに沿ってデータを修正してください。  
-
-ご不明な点があればBOOTHのメッセージやtwitterでいつでも聞いてください。  
-販売ページ: https://tarohayashi.booth.pm/items/3172502
   
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
