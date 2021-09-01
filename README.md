@@ -208,7 +208,10 @@ ChromeかEdgeでRemapにアクセスしてください。
   
 ドラッグアンドドロップで変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
-
+  
+標準のキーマップはWindowsでUS配列設定で使うことを想定しています。
+RemapにJIS配列、MacのUS配列用のキーマップを用意したのでよろしければ手間を省くのにご利用ください。
+  
 ## その他
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/handyman
