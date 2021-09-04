@@ -149,7 +149,7 @@ Pro Microに動作ソフト（ファームウェア）を書き込んで動作�
 キットとPCをUSBケーブルでつないでください。   
 
 ファームウェアをダウンロードしてPro Micro Web Updaterにアクセスしてください。
-- テスト用ファームウェア [handyman_test.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun_test.hex)
+- テスト用ファームウェア [handyman_test.hex](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/handyman_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
@@ -186,7 +186,7 @@ USBケーブルを抜いてプレートを組付けます。
 ![](img/bottom6.jpg)  
 
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
-- [handyman_via.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun_via.hex)
+- [handyman_via.hex](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/handyman_via.hex)
 
 マイナスドライバーでノブを取りつけ、ゴム足を貼ったら完成です。
 ![](img/nob.jpg)  
@@ -216,10 +216,10 @@ RemapにJIS配列、MacのUS配列用のキーマップを用意したのでよ�
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/handyman
   
-VIA用JSONファイル [handyman.json]()  
+VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/handyman.json)  
   
 プレートのデザインデータ  
-[handyman_plates.zip]()  
+[handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/handyman_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
   
 foostan様のフットプリントを流用、改変して使わせていただきました。  
