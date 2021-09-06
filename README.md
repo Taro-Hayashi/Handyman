@@ -212,9 +212,9 @@ ChromeかEdgeでRemapにアクセスしてください。
 標準のキーマップはWindowsでUS配列設定で使うことを想定しています。
 RemapにJIS配列、MacのUS配列用のキーマップを用意したのでよろしければ手間を省くのにご利用ください。
   
-## 直角出しサポートプレート
+## 直角出しサポートプレート（別売）
 下端は10度傾いています。  
-Boothで販売中のアクリルプレートを購入していただくことで直角を出すことができます。
+サポートプレートを使うことで簡単に直角を出すことができます。
 ![](img/angle.png)  
 ボトムプレートなしで取り付ける場合は付属のワッシャーでビスの長さを調節してください。
 
@@ -227,6 +227,7 @@ VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/
 プレートのデザインデータ  
 [handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/handyman_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
+一部プレートはBoothでも販売中です。
   
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
 BOOTH: https://tarohayashi.booth.pm/items/3208122  
