@@ -212,6 +212,12 @@ ChromeかEdgeでRemapにアクセスしてください。
 標準のキーマップはWindowsでUS配列設定で使うことを想定しています。
 RemapにJIS配列、MacのUS配列用のキーマップを用意したのでよろしければ手間を省くのにご利用ください。
   
+## 直角出しサポートプレート
+Handymanの下端は10度傾いています。  
+Boothで販売中のアクリルプレートを購入していただくことで直角を出すことができます。
+![](img/angle.jpg)  
+ボトムプレートなしで取り付ける場合は付属のワッシャーでビスの長さを調節してください。
+
 ## その他
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/handyman
