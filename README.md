@@ -227,7 +227,6 @@ VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/
 プレートのデザインデータ  
 [handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/handyman_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
-一部プレートはBoothでも販売中です。
   
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
 BOOTH: https://tarohayashi.booth.pm/items/3208122  
