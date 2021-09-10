@@ -230,7 +230,7 @@ VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/
   
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
 BOOTH: https://tarohayashi.booth.pm/items/3208122  
-遊舎工房: Coming Soon
+遊舎工房: https://shop.yushakobo.jp/collections/keyboard-1/products/2797
   
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
