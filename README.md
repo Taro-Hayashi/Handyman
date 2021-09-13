@@ -226,10 +226,10 @@ JIS配列、MacのUS配列用のキーマップを用意したのでよろしけ
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/handyman
 
-VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/handyman.json)  
+VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/14.15/handyman.json)  
 
 プレートのデザインデータ  
-[handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/1.0/handyman_plates.zip)  
+[handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/14.15/handyman_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
