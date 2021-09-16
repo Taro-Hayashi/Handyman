@@ -232,10 +232,6 @@ VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/
 [handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/14.6/handyman_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
-ロープロファイルのロータリーエンコーダは付属のエンコーダとは少し仕様が違います（解像度が2ではなく4）。  
-こちらのファームウェアをお使いください。  
-[handyman_enclow.hex](https://github.com/Taro-Hayashi/Handyman/releases/download/14.6/handyman_enclow.hex)
-
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
 
 foostan様のフットプリントを流用、改変して使わせていただきました。  
