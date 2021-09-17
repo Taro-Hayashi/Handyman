@@ -234,7 +234,7 @@ VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/
 
 ロープロファイルのロータリーエンコーダーは付属のものと少し仕様が違います（解像度が2ではなく4）。
 こちらのファームウェアをお使いください。
-- [handyman_via.hex](https://github.com/Taro-Hayashi/Handyman/releases/download/14.15/handyman_enclow.hex)
+- [handyman_enclow.hex](https://github.com/Taro-Hayashi/Handyman/releases/download/14.15/handyman_enclow.hex)
 
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
 
