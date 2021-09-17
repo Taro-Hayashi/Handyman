@@ -226,11 +226,15 @@ JIS配列、MacのUS配列用のキーマップを用意したのでよろしけ
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/handyman
 
-VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/14.6/handyman.json)  
+VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/14.15/handyman.json)  
 
 プレートのデザインデータ  
-[handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/14.6/handyman_plates.zip)  
+[handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/14.15/handyman_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
+
+ロープロファイルのロータリーエンコーダーは付属のものと少し仕様が違います（解像度が2ではなく4）。
+こちらのファームウェアをお使いください。
+- [handyman_via.hex](https://github.com/Taro-Hayashi/Handyman/releases/download/14.15/handyman_enclow.hex)
 
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
 
