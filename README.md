@@ -232,7 +232,7 @@ VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/
 [handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/14.15/handyman_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
-ロープロファイルのロータリーエンコーダーは付属のものと少し仕様が違います（解像度が2ではなく4）。
+ロープロファイルのロータリーエンコーダーは付属のものと少し仕様が違います（解像度が2ではなく4）。  
 こちらのファームウェアをお使いください。
 - [handyman_enclow.hex](https://github.com/Taro-Hayashi/Handyman/releases/download/14.15/handyman_enclow.hex)
 
