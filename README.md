@@ -214,7 +214,7 @@ JIS配列、MacのUS配列用のキーマップ、普通のキーボードのよ
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/handyman
 
-VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/14.15/handyman.json)  
+VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman.json)  
 
 プレートのデザインデータ  
 [handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman_plates.zip)  
