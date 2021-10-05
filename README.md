@@ -220,9 +220,9 @@ VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/
 [handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
-ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
-- BOOTH: https://tarohayashi.booth.pm/items/3208122  
-- 遊舎工房: https://shop.yushakobo.jp/collections/keyboard/products/2795  
+ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。   
+- 遊舎工房: https://shop.yushakobo.jp/collections/keyboard/products/2795   
+- BOOTH: https://tarohayashi.booth.pm/items/3208122
 
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
