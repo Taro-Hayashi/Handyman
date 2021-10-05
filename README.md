@@ -141,7 +141,7 @@ Pro Microに動作ソフト（ファームウェア）を書き込んで動作�
 キットとPCをUSBケーブルでつないでください。   
 
 ファームウェアをダウンロードしてPro Micro Web Updaterにアクセスしてください。
-- テスト用ファームウェア [handyman_test.hex](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman_test.hex)
+- テスト用ファームウェア [handyman_test.hex](https://github.com/Taro-Hayashi/Handyman/releases/download/14.20/handyman_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
@@ -178,7 +178,7 @@ USBケーブルを抜いてプレートを組付けます。
 ![](img/bottom6.jpg)  
 
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
-- [handyman_via.hex](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman_via.hex)
+- [handyman_via.hex](https://github.com/Taro-Hayashi/Handyman/releases/download/14.20/handyman_via.hex)
 
 マイナスドライバーでノブを取りつけ、ゴム足を貼ったら完成です。
 ![](img/nob.jpg)  
