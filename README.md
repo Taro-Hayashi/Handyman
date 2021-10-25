@@ -139,7 +139,7 @@ Pro Microに動作ソフト（ファームウェア）を書き込んで動作�
 下のwebサイトにアクセスしてください。
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
 
-画像のようにテストファームウェアを選んでFLASHします。
+テストファームウェアを選んでFLASHします。
 ![](img/remap02.jpg)  
 ![](img/remap03.jpg)  
 
