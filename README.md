@@ -106,9 +106,10 @@ choc V1スイッチの場合、足が一か所干渉するので短くカット�
 コンスルーの窓が高くて両方とも同じ向きになるように設置します。  
 挿すだけではんだ付けはしません。  
 
-コンスルーにPro Microを挿します。TX0, RAW, USBの位置をシルク印刷と合わせましょう。  
-カプトンテープをお持ちの方はここでメインボードとPro Microを絶縁しておくと安心です。  
+コンスルーにPro Microを挿します。TX0, RAW, USBの位置をシルク印刷と合わせましょう。   
 ![](img/promicro2.jpg)   
+USBの端子がショートしやすいのでカプトンテープやマスキングテープをお持ちの方はここで絶縁しておくと安心です。 
+![](img/promicro2_5.jpg) 
 
 Pro Micro側のコンスルーの足を半田付けします。  
 ![](img/promicro3.jpg)   
@@ -135,20 +136,18 @@ SW20に表から水平型のロータリーエンコーダーを取り付けて�
 Pro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
 キットとPCをUSBケーブルでつないでください。   
 
-ファームウェアをダウンロードしてPro Micro Web Updaterにアクセスしてください。
-- テスト用ファームウェア [handyman_test.hex](https://github.com/Taro-Hayashi/Handyman/releases/download/14.20/handyman_test.hex)
-- Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
+下のwebサイトにアクセスしてください。
+- https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
 
-ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
-![](img/promicrowebupdater1.jpg)  
+画像のようにテストファームウェアを選んでFLASHします。
+![](img/remap02.jpg)  
+![](img/remap03.jpg)  
 
-ブラウザのアドレスバーからメッセージが出てきたら、キットのリセットスイッチを押します。      
-すると選択欄にArduino Microが出てきてクリックできるようになります。  
-![](img/promicrowebupdater2.jpg)  
+キットのリセットスイッチを押すとArduino Microが現れるので、クリックして接続します。
+![](img/remap04.jpg) 
 
-選択して接続を押すと書き込みが終わります。  
-![](img/promicrowebupdater3.jpg)  
-ファームウェアを更新する時もこの手順で行います。  
+書き込みが完了したらウィンドウを閉じて大丈夫です。
+![](img/remap05.jpg) 
 
 アドレスバーやテキストエディタを使ってすべてのスイッチが反応することを確かめてください。
 お疲れ様でした。問題がなければはんだ付けは終了です。
@@ -172,8 +171,9 @@ USBケーブルを抜いてプレートを組付けます。
 表に保護プレートをネジ（中）で取り付けましょう。
 ![](img/bottom6.jpg)  
 
-キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
-- [handyman_via.hex](https://github.com/Taro-Hayashi/Handyman/releases/download/14.20/handyman_via.hex)
+キーキャップを取り付けたら先ほどと同様の手順で本番用のファームウェアに更新しましょう。
+- https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
+![](img/remap06.jpg)  
 
 マイナスドライバーでノブを取りつけ、ゴム足を貼ったら完成です。
 ![](img/nob.jpg)  
