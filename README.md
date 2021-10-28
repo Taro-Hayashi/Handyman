@@ -107,9 +107,9 @@ choc V1スイッチの場合、足が一か所干渉するので短くカット�
 挿すだけではんだ付けはしません。  
 
 コンスルーにPro Microを挿します。TX0, RAW, USBの位置をシルク印刷と合わせましょう。   
-![](img/promicro2.jpg)   
 USBの端子がショートしやすいのでカプトンテープやマスキングテープをお持ちの方はここで絶縁しておくと安心です。 
 ![](img/promicro2_5.jpg) 
+![](img/promicro2.jpg)   
 
 Pro Micro側のコンスルーの足を半田付けします。  
 ![](img/promicro3.jpg)   
