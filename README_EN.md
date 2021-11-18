@@ -75,7 +75,7 @@ Conthroughs are not soldered so that Pro Micro can be removed.
 
 And put Pro Micro on conthroughs.  
 ![](img/promicro2.jpg)   
-USBの端子がショートしやすいのでカプトンテープやマスキングテープをお持ちの方はここで絶縁しておくと安心です。 
+If you have Kapton tape or masking tape, you can insulate it here.
 ![](img/promicro2_5.jpg) 
 
 Solder Pro Micro.  
@@ -108,29 +108,31 @@ If there are no problems, soldering is finished.
 ## Assembling
 Disconnect the USB cable. 
 
+Attach the short and middle spacers to the red circle.  
 ![](img/bottom1.jpg)  
-メインボードの赤丸のネジ穴にスペーサー（中）とスペーサー（短）を止めます。  
-画像のようにスイッチがついてる側にスペーサー（中）があるようにしてください。  
+There will be middle spacers on the side of the key switch.  
 ![](img/bottom2.jpg)  
 
-メインボード裏面の残りのネジ穴にスペーサー（短）をネジ（短）で取り付けてミドルプレート1（透明）を嵌めます。
+Attach short spacers on the back of the main board with short screws.  
+And fit the middle plate #1.  
 ![](img/bottom3.jpg)  
 
-ミドルプレート2とバックプレートをネジ（長）で止めます。
+Fasten the middle plate #2 and the back plate with long screws.  
 ![](img/bottom4.jpg)  
 ![](img/bottom5.jpg)  
 
-表に保護プレートをネジ（中）で取り付けましょう。
+Attach cover plate to the front with middle screws.  
 ![](img/bottom6.jpg)  
 
-キーキャップを取り付けたら先ほどと同様の手順で本番用のファームウェアに更新しましょう。
+After installing the keycap, follow the same procedure as before to update the firmware for production.  
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
 ![](img/remap06.jpg)  
 
-マイナスドライバーでノブを取りつけ、ゴム足を貼ったら完成です。
+Attaching the knob and rubber feet.  
 ![](img/nob.jpg)  
-ノブは直径20mmのものまで取り付けを確認しました。  
 ![](img/full.jpg)  
+
+Thank you for your time.  
 
 ## Customise
 ![](img/layout.png)  
