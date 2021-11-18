@@ -3,7 +3,7 @@
 - [Soldering](#Soldering)
 - [Testing](#Testing)
 - [Assembling](#Assembling)
-- [Customize](#Customize)
+- [Customise](#Customise)
 
 
 ## Contents
