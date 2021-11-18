@@ -43,32 +43,26 @@
 |WS2812B|6|[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
 
 ## Soldering
-発送での事故防止のために予め取り付けられている保護プレートとネジ、スペーサーを取り外します。  
+Remove cover plate, screws and spacers.  
 ![](img/IMG_3936.jpg)  
-保護プレートは後で使います。ネジ、スペーサーは予備としてお使いください。
+Cover plate will be used later.  
 
-はんだ付けのやり方は動画で見るとわかりやすいです。  
-パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
- - ホームセンターのDCMさんの解説動画(58秒～)  [YouTube](https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s)
-
-それではダイオードをD1からD26まで取り付けます。  
-足を曲げて裏から差し込みます。  
-ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
+Install the diodes from D1 to D26.  
 ![](img/diode1.jpg)  
+Diodes have a direction.  
 
-表で更に足を曲げて抜けないようにします。  
-ダイオードと並行に曲げるとあとでキースイッチに干渉しにくいです。
+Bend the legs parallel to the diode to prevent interference with the key switch later.  
 ![](img/diode2.jpg)  
 
-はんだ付けをして足を切ります。  
+Solder and cut the legs.  
 ![](img/diode3.jpg)   
 
-リセットスイッチを裏から差し込み表ではんだ付けします。  
+Solder Tactile Switches.  
 ![](img/reset1.jpg)   
-フラックスクリーナーを使う人はここで表面を綺麗にしておきましょう。  
+If you want to remove the flux from the surface, now is the time.  
 ![](img/reset2.jpg)   
 
-キースイッチを表から差し込みます。  
+Solder Tactile Switches.  
 ![](img/keyswitch1.jpg)  
 ここの二つのスイッチはPro Microと接触する可能性があるので、足を切ってからはんだ付けします。
 ![](img/keyswitch2.jpg)  
