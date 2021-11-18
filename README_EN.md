@@ -1,4 +1,4 @@
-# Handyman マクロパッド ビルドガイド
+# Handyman マクロパッド Build Manual（[日本語](https://github.com/Taro-Hayashi/Handyman/edit/main/README.md)）
 - [キット内容](#キット内容)
 - [組み立て方（はんだ付け）](#組み立て方はんだ付け)
 - [動作テスト](#動作テスト)
