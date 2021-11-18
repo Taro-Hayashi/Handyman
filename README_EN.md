@@ -10,23 +10,23 @@
 ![](img/IMG_39352.jpg)
 ||Name|Quantities| |
 |-|-|-|-|
-|1|メインボード|1|黒・PCB|
-|2|ミドルプレート1|1|透明アクリル・穴の開いている方|
-|3|ミドルプレート2|1|透明アクリル|
-|4|ボトムプレート|1|黒・PCB|
-|5|保護プレート|1|透明アクリル・小さい|
-|6|ネジ（短）|9|3mm|
-|7|ネジ（中）|3|4mm|
-|8|ネジ（長）|12|6mm|
-|9|スペーサー（短）|12|3mm メス-メス|
-|10|スペーサー（中）|3|4mm メス-オス|
-|11|ダイオード|26|1N4148|
-|12|リセットスイッチ|1||
-|13|ロータリーエンコーダ（水平型）|1|EC11互換品|
-|14|ノブ|1||
-|15|ロータリーエンコーダ（ホイール）|2|EVQWGD001|
-|16|レバースイッチ|1|メインボードに取り付け済み。[取り付け方](lever.md)|
-|17|ゴム足|7||
+|1|Main board|1||
+|2|Middle plate #1|1||
+|3|Middle plate #2|1||
+|4|Bottom plate|1||
+|5|Cover plate|1||
+|6|Short screws|9|3mm|
+|7|Middle screws|3|4mm|
+|8|Long screws|12|6mm|
+|9|Short spacer|12|3mm|
+|10|Middle spacer|3|4mm|
+|11|Diodes|26|1N4148|
+|12|Tactile Switch|1||
+|13|Dial rotary encoder|1|EC11|
+|14|Knob|1||
+|15|Wheel rotary encoder|2|EVQWGD001|
+|16|Lever switch|1||
+|17|Rubber feet|7||
 
 ## Additional required
 |Name|Quantities||
@@ -42,7 +42,7 @@
 |SK6812MINI-E|22|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
 |WS2812B|6|[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
 
-## 組み立て方（はんだ付け）
+## Soldering
 発送での事故防止のために予め取り付けられている保護プレートとネジ、スペーサーを取り外します。  
 ![](img/IMG_3936.jpg)  
 保護プレートは後で使います。ネジ、スペーサーは予備としてお使いください。
