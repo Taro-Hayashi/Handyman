@@ -1,4 +1,4 @@
-# Handyman マクロパッド ビルドガイド
+# Handyman マクロパッド ビルドガイド（[English](https://github.com/Taro-Hayashi/Handyman/blob/main/README_EN.md)）
 - [キット内容](#キット内容)
 - [組み立て方（はんだ付けその1）](#組み立て方はんだ付けその1)
 - [動作テスト](#動作テスト)
@@ -8,7 +8,7 @@
 - [おまけ](#おまけ)
 
 ## キット内容
-![](img/IMG_3935.jpg)
+![](img/IMG_39352.jpg)
 ||部品名|数| |
 |-|-|-|-|
 |1|メインボード|1|黒・PCB|
