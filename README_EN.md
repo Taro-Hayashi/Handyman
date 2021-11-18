@@ -1,14 +1,14 @@
 # Handyman マクロパッド Build Manual（[日本語](https://github.com/Taro-Hayashi/Handyman/blob/main/README.md)）
-- [キット内容](#キット内容)
-- [組み立て方（はんだ付け）](#組み立て方はんだ付け)
-- [動作テスト](#動作テスト)
-- [組み立て方（後半）](#組み立て方後半)
-- [カスタマイズ](#キーマップの確認変更方法)
-- [おまけ](#おまけ)
+- [Contents](#Contents)
+- [Soldering](#Soldering)
+- [Testing](#Testing)
+- [Assembling](#Assembling)
+- [Customize](#Customize)
 
-## キット内容
+
+## Contents
 ![](img/IMG_39352.jpg)
-||部品名|数| |
+||Name|Quantities| |
 |-|-|-|-|
 |1|メインボード|1|黒・PCB|
 |2|ミドルプレート1|1|透明アクリル・穴の開いている方|
@@ -28,45 +28,19 @@
 |16|レバースイッチ|1|メインボードに取り付け済み。[取り付け方](lever.md)|
 |17|ゴム足|7||
 
-## キット以外に必要なもの
-|部品名|数|||
-|-|-|-|-|
-|Pro Micro コンスルー付き|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
-|キースイッチ|22|Kailhロープロファイル（V1, V2)||
-|キーキャップ|22|対応するもの|すべて1U|
-|Micro USB ケーブル|1||
+## Additional required
+|Name|Quantities||
+|-|-|-|
+|Pro Micro (With Conthrough)|1|[Yushakobo](https://shop.yushakobo.jp/en/products/promicro-spring-pinheader)|
+|Switches|22|Kailh Low Profile Switches V1/V2|
+|Keycaps|22|1U|
+|Micro-USB Cable|1|[Yushakobo](https://shop.yushakobo.jp/en/products/usb-cable-micro-b-0-8m)|
 
-## オプション
-|部品名|数|||
-|-|-|-|-|
-|SK6812MINI-E|22|[取り付け方](led.md)|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
-|WS2812B|6|無くてもバックライトだけ光ります。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800ws-01-10)|
-|1N4148W|22|表面実装タイプのダイオード|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800di-02-100)|
-
-## 必要な工具
-|工具名| |
-|-|-|
-|はんだごて||
-|はんだごて置き場||
-|鉛入りはんだ||
-|細い+ドライバー|1番ドライバー。|
-|細い-ドライバー|先端の幅が2mm以下のもの。|
-|ニッパー等ダイオードの足を切れるもの||
-|Microsoft Edge、もしくはGoogle Chrome||
-
-## あると便利な工具
-|工具名||
-|-|-|
-|耐熱シリコンマット||
-|斜めに切ったタイプのこて先||
-|温度調節可能なはんだごて|300度-350度前後。|
-|フラックス||
-|ピンセット||
-|テスター||
-|フラックスリムーバー||
-|マスキングテープ||
-|はんだ吸い取り線||
-|耐熱絶縁テープ（カプトンテープ）||
+## Optional
+|Name|Quantities||
+|-|-|-|
+|SK6812MINI-E|22|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
+|WS2812B|6|[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
 
 ## 組み立て方（はんだ付け）
 発送での事故防止のために予め取り付けられている保護プレートとネジ、スペーサーを取り外します。  
@@ -210,27 +184,25 @@ JIS配列、MacのUS配列用のキーマップ、普通のキーボードのよ
 修正した基板の発送をご案内していますのでご覧ください。  
 https://twitter.com/w_vwbw/status/1440305043870154764
 
-## その他
-ファームウェアのフォルダ  
+## Misc
+Firmware  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/handyman
 
-VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman.json)  
+JSON for Remap/VIA  
+- [handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman.json)  
 
-プレートのデザインデータ  
+Plates data   
 [handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman_plates.zip)  
-発注先のルールに沿ってデータを修正してください。  
 
-ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。   
-
-foostan様のフットプリントを流用、改変して使わせていただきました。  
+Used foostan's footprint.  
 https://github.com/foostan/kbd/  
 https://github.com/foostan/kbd/blob/master/LICENSE  
 
-plut0nium様のフットプリントを流用、改変して使わせていただきました。  
+Used plut0nium's footprint.  
 https://github.com/plut0nium/0xLib  
 https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt  
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この キット は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
 
-- 遊舎工房: https://shop.yushakobo.jp/collections/keyboard/products/2795   
+- Yushakobo: https://shop.yushakobo.jp/en/products/2795  
 - BOOTH: https://tarohayashi.booth.pm/items/3208122
