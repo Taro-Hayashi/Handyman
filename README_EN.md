@@ -189,7 +189,7 @@ Firmware
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/handyman
 
 JSON for Remap/VIA  
-- [handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman.json)  
+[handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman.json)  
 
 Plates data   
 [handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman_plates.zip)  
