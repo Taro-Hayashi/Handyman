@@ -25,7 +25,7 @@
 |13|Dial rotary encoder|1|EC11|
 |14|Knob|1||
 |15|Wheel rotary encoder|2|EVQWGD001|
-|16|Lever switch|1||
+|16|Lever switch|1|Assembled|
 |17|Rubber feet|7||
 
 ## Additional required
