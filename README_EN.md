@@ -154,35 +154,18 @@ USBケーブルを抜いてプレートを組付けます。
 ノブは直径20mmのものまで取り付けを確認しました。  
 ![](img/full.jpg)  
 
-## キーマップの確認、変更方法
-標準ではUS配列設定でのClip Studio Paintにあわせたキーマップになっています。  
+## Customise
 ![](img/layout.png)  
-[Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/b1de3d8b33b46ababd2dff071c8af257)  
+[Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/b1de3d8b33b46ababd2dff071c8af257)  
 
-使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
-
-ChromeかEdgeでRemapにアクセスしてください。  
+Access Remap.  
 - Remap https://remap-keys.app/
 
+Select the blue button on the left to proceed.  
 ![](img/remap1.png)  
-左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。  
 
-ドラッグアンドドロップで変更が終わったら右上のflashボタンを押すと反映されます。  
+After Drag-and-Drop the keys, press the flash button in the upper right corner.  
 ![](img/remap3.png)  
-
-JIS配列、MacのUS配列用のキーマップ、普通のキーボードのようなキーマップを用意したのでよろしければ手間を省くのにご利用ください。
-
-## 直角出しサポートプレート（別売）
-下端は10度傾いています。  
-サポートプレートを使うことで簡単に直角を出すことができます。
-机や液タブの端に貼り付けるときに便利です。
-![](img/angle.png)  
-ボトムプレートなしで取り付ける場合は付属のワッシャーでビスの長さを調節してください。
-
-## 9月10日にご購入されたお客さまへ
-機能の一部に不具合がございます。  
-修正した基板の発送をご案内していますのでご覧ください。  
-https://twitter.com/w_vwbw/status/1440305043870154764
 
 ## Misc
 Firmware  
