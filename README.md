@@ -34,7 +34,8 @@
 ## キット以外に必要なもの
 |部品名|数|||
 |-|-|-|-|
-|Pro Micro コンスルー付き|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
+|Pro Micro|1||[遊舎工房](https://shop.yushakobo.jp/products/promicro)、[コンスルー付き](https://shop.yushakobo.jp/products/promicro-spring-pinheader)、[TALPKEYBOARD](https://talpkeyboard.net/items/5b24504ba6e6ee7ec60063e3)、[Daily Craft Keyboard・コンスルー付き](https://shop.dailycraft.jp/products/promicro_with_conthrou)|
+|コンスルー 12ピン（高さ2.5mm）||||
 |キースイッチ|22|Kailhロープロファイル（V1, V2)||
 |キーキャップ|22|対応するもの|すべて1U|
 |Micro USB ケーブル|1||
