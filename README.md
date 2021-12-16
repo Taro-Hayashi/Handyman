@@ -71,7 +71,7 @@
 |マスキングテープ||[3M マスキングテープ 8巻パック](https://amzn.to/31G4Qwt)|
 |はんだ吸い取り線||[FR150-88](https://amzn.to/3pPWWZ5)|
 |はんだ吸い取り器||[DS01P](https://amzn.to/31RlusN)|
-|耐熱絶縁テープ（カプトンテープ）|[秋月電子通商](https://akizukidenshi.com/catalog/g/gT-09378/)、[Amazon](https://amzn.to/3maenmk)|
+|耐熱絶縁テープ（カプトンテープ）||[秋月電子通商](https://akizukidenshi.com/catalog/g/gT-09378/)、[Amazon](https://amzn.to/3maenmk)|
 
 ## 組み立て方（はんだ付けその1）（[画像を反転する](https://github.com/Taro-Hayashi/Handyman/blob/main/README_R.md#組み立て方はんだ付けその1)）
 発送での事故防止のために予め取り付けられている保護プレートとネジ、スペーサーを取り外します。  
