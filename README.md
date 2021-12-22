@@ -74,6 +74,9 @@
 
 
 ## 準備
+左右どちらで作るかを選びます。
+![](img/IMG_5091.jpg)  
+
 Pro MicroのMicro-USB端子をエポシキ接着剤で補強します。  
 ![](img/IMG_4972.jpg)  
 ![](img/IMG_5093.jpg)  
