@@ -82,7 +82,7 @@ Pro MicroのMicro-USB端子をエポシキ接着剤で補強します。
 ![](img/IMG_5093.jpg)  
 乾燥させている間にはんだ付けを進めましょう。  
 
-## はんだ付け（[画像を反転する](https://github.com/Taro-Hayashi/Handyman/blob/main/README_R.md#組み立て方はんだ付けその1)）
+## はんだ付け
 はんだ付けのやり方は動画で見るとわかりやすいです。  
 パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
  - ホームセンターのDCMさんの解説動画(58秒～)  [YouTube](https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s)
