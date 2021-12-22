@@ -1,5 +1,4 @@
 # Handyman マクロパッド ビルドガイド（[English](https://github.com/Taro-Hayashi/Handyman/blob/main/README_EN.md)）
-現在遊舎工房様での再発売に合わせて編集中です。朝までには終わります。
 - [キット内容](#キット内容)
 - [準備](#準備)
 - [はんだ付け](#はんだ付け画像を反転する)
