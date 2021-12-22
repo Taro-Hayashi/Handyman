@@ -4,7 +4,7 @@
 - [準備](#準備)
 - [はんだ付け](#はんだ付け画像を反転する)
 - [組み立て](#組み立て)
-- [カスタマイズ](#キーマップの確認変更方法)
+- [カスタマイズ](#カスタマイズ)
 - [おまけ](#おまけ)
 
 ## キット内容
@@ -199,7 +199,7 @@ USBケーブルを抜いてプレートを組付けます。
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
 ![](img/remap06.jpg)  
 
-## キーマップの確認、変更方法
+## カスタマイズ
 標準ではUS配列設定でのClip Studio Paintにあわせたキーマップになっています。  
 ![](img/layout.png)  
 [Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/b1de3d8b33b46ababd2dff071c8af257)  
