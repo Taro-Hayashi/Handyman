@@ -82,12 +82,12 @@ Solder the front side.
 ![](img/IMG_5017.jpg)   
 
 Solder rotary encoders.  
-![](img/wheel1.jpg)  
-![](img/wheel2.jpg)  
-![](img/wheel3.jpg)  
-![](img/rot1.jpg)  
-![](img/rot2.jpg)  
-![](img/rot3.jpg)  
+![](img/IMG_5120.jpg)  
+![](img/IMG_5121.jpg)  
+![](img/IMG_5122.jpg)  
+![](img/IMG_5123.jpg)  
+![](img/IMG_5124.jpg)  
+![](img/IMG_5125.jpg)  
 
 ## Testing
 Connect one of them to the PC with a USB cable.  
@@ -109,28 +109,27 @@ If there are no problems, soldering is finished.
 Disconnect the USB cable. 
 
 Attach the short and middle spacers to the red circle.  
-![](img/bottom1.jpg)  
+![](img/IMG_5127.jpg)  
 There will be middle spacers on the side of the key switch.  
-![](img/bottom2.jpg)  
+![](img/IMG_5128.jpg)  
 
 Attach short spacers on the back of the main board with short screws.  
 And fit the middle plate #1.  
-![](img/bottom3.jpg)  
+![](img/IMG_5131.jpg)  
 
 Fasten the middle plate #2 and the back plate with long screws.  
-![](img/bottom4.jpg)  
-![](img/bottom5.jpg)  
+![](img/IMG_5132.jpg)  
+![](img/IMG_5133.jpg)  
 
 Attach cover plate to the front with middle screws.  
-![](img/bottom6.jpg)  
+![](img/IMG_5134.jpg)  
 
 After installing the keycap, follow the same procedure as before to update the firmware for production.  
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
 ![](img/remap06.jpg)  
 
 Attaching the knob and rubber feet.  
-![](img/nob.jpg)  
-![](img/full.jpg)  
+![](img/IMG_5137.jpg)  
 
 Thank you for your time.  
 
