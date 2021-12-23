@@ -7,7 +7,7 @@
 
 
 ## Contents
-![](img/IMG_39352.jpg)
+![](img/IMG_5094.jpg)
 ||Name|Quantities| |
 |-|-|-|-|
 |1|Main board|1||
@@ -25,61 +25,61 @@
 |13|Dial rotary encoder|1|EC11|
 |14|Knob|1||
 |15|Wheel rotary encoder|2|EVQWGD001|
-|16|Lever switch|1|Assembled|
-|17|Rubber feet|7||
+|16|Rubber feet|7||
+|17|Pro Micro|1||
+|18|Lever switch|1|Assembled|
 
 ## Additional required
 |Name|Quantities||
 |-|-|-|
-|Pro Micro (With Conthrough)|1|[Yushakobo](https://shop.yushakobo.jp/en/products/promicro-spring-pinheader)|
 |Switches|22|Kailh Low Profile Switches V1/V2|
 |Keycaps|22|1U|
 |Micro-USB Cable|1|[Yushakobo](https://shop.yushakobo.jp/en/products/usb-cable-micro-b-0-8m)|
 
 ## Optional
-|Name|Quantities||
-|-|-|-|
-|SK6812MINI-E|22|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
-|WS2812B|6|[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
+|Name|Quantities|||
+|-|-|-|-|
+|Conthrough|2|[Usage](conthrough_EN.md)|[Yushakobo](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)|
+|SK6812MINI-E|9|[Usage](led_EN.md)|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
+|WS2812B|3||[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
 
 ## Soldering
-Remove cover plate, screws and spacers.  
-![](img/IMG_3936.jpg)  
-Cover plate will be used later.  
-
 Install the diodes from D1 to D26.  
-![](img/diode1.jpg)  
+![](img/IMG_5102.jpg)  
 Diodes have a direction.  
 
 Bend the legs parallel to the diode to prevent interference with the key switch later.  
-![](img/diode2.jpg)  
+![](img/IMG_5103.jpg)  
 
 Solder and cut the legs.  
-![](img/diode3.jpg)   
+![](img/IMG_5104.jpg)   
 
 Solder Tactile Switches.  
-![](img/reset1.jpg)   
+![](img/IMG_5106.jpg)   
 If you want to remove the flux from the surface, now is the time.  
-![](img/reset2.jpg)   
+![](img/IMG_5107.jpg)   
 
 Solder Switches.  
-![](img/keyswitch1.jpg)  
+![](img/IMG_5108.jpg)  
 The two switches here may come in contact with the Pro Micro, so cut off the legs before soldering.  
-![](img/keyswitch2.jpg)  
+![](img/IMG_5109.jpg)  
 In the case of the choc V1 switch, one of the legs will interfere with the switch, so cut it short.  
-![](img/keyswitch3.jpg)  
+![](img/IMG_5110.jpg)  
 
-Put conthroughs. Make the top and bottom and front and back the same.  
-Conthroughs are not soldered so that Pro Micro can be removed.  
-![](img/promicro1.jpg)   
+Insulate the USB terminal of the Promicro where it is shorted.  
+![](img/IMG_5113.jpg)   
 
-And put Pro Micro on conthroughs.  
-![](img/promicro2.jpg)   
-If you have Kapton tape or masking tape, you can insulate it here.
-![](img/promicro2_5.jpg) 
+Plug the short end of the pin header into the board.  
+![](img/IMG_5114.jpg)   
+
+Place the Pro Micro and cut off the pins.  
+![](img/IMG_5115.jpg)   
+![](img/IMG_5116.jpg)   
 
 Solder Pro Micro.  
-![](img/promicro3.jpg)   
+![](img/IMG_5014.jpg)   
+Solder the front side.
+![](img/IMG_5017.jpg)   
 
 Solder rotary encoders.  
 ![](img/wheel1.jpg)  
