@@ -11,16 +11,16 @@
 ※2021年12月よりPro Microが同梱されるようになりました。 
 ||部品名|数| |
 |-|-|-|-|
-|1|メインボード左手用、右手用|1～2|黒・PCB|
-|2|ボトムプレート|1|黒・PCB|
-|3|ミドルプレート1|1|透明アクリル・穴の開いている方|
-|4|ミドルプレート2|1|透明アクリル|
-|5|保護プレート|1|透明アクリル・小さい|
+|1|メインボード左手用、右手用|1～2||
+|2|ボトムプレート|1||
+|3|ミドルプレート1|1||
+|4|ミドルプレート2|1||
+|5|保護プレート|1||
 |6|ネジ（短）|9|3mm|
 |7|ネジ（中）|3|5mm|
 |8|ネジ（長）|12|6mm|
-|9|スペーサー（短）|12|3mm メス-メス|
-|10|スペーサー（中）|3|4mm メス-オス|
+|9|スペーサー（短）|12|3mm|
+|10|スペーサー（中）|3|4mm|
 |11|ダイオード|26|1N4148|
 |12|リセットスイッチ|1||
 |13|ロータリーエンコーダ（水平型）|1|EC11互換品|
@@ -31,18 +31,18 @@
 |18|レバースイッチ|ボード毎|メインボードに取り付け済み。|
 
 ### キット以外に必要なもの
-|部品名|数|||
-|-|-|-|-|
-|キースイッチ|22|Kailhロープロファイル（V1, V2)|V1：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)、V2：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
-|キーキャップ|22|スイッチに対応したもの||
-|Micro USB ケーブル|1||[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
+|部品名|数||
+|-|-|-|
+|キースイッチ|9|[Kailh choc V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、もしくは[Kailh Choc V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
+|キーキャップ|9|V1は[専用キーキャップ](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)、V2は[CherryMX互換](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97)です。|
+|Micro USB ケーブル|1||
 
 ### オプション
 |部品名|数|||
 |-|-|-|-|
 |コンスルー 12ピン（高さ2.5mm）|2|[使い方](conthrough.md)|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)、[TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
-|バックライトLED（SK6812MINI-E）|22||[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)|
-|アンダーグローLED（WS2812B）|6||[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
+|バックライトLED（SK6812MINI-E）|9||[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)|
+|アンダーグローLED（WS2812B）|3||[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
 
 ### 必要な工具
 |工具名|
