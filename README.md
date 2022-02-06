@@ -223,7 +223,7 @@ JIS配列、MacのUS配列用のキーマップ、普通のキーボードのよ
 
 ## その他
 ファームウェアのフォルダ  
-https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/handyman
+https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/handyman
 
 VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman.json)  
 
