@@ -223,6 +223,11 @@ ChromeかEdgeでRemapにアクセスしてください。
 レイアウトオプションでどちら側か選ぶことができます。  
 ![](img/h.jpg)  
 
+## レイアウトの保存と復元
+⇔アイコンで作ったレイアウトを保存することができます。  
+いくつかサンプルがあります。  
+![](img/re.jpg)  
+
 ## その他
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/handyman
