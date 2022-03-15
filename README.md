@@ -235,7 +235,7 @@ https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/h
 VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman.json)  
 
 プレートのデザインデータ  
-[handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/14.3/handyman_plates.zip)  
+[handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/14.35/handyman_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。   
