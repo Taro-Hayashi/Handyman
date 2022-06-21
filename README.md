@@ -229,7 +229,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 
 ## その他
 ファームウェアのフォルダ  
-https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/handyman
+https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/handyman
 
 VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman.json)  
 
