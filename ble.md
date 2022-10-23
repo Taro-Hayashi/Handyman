@@ -38,7 +38,7 @@ BLE Micro Pro WebConfigratorにGoogle Chromeでアクセスしてください。
 "ナビゲーション付き〜"の青いボタンをクリックしてあとは画面に従ってインストールしてください。
 ![](img/select.jpg)  
   
-エンコーダーの回転がうまく反映されない場合はこちらを上書きしてください。
+エンコーダーの回転が反映されない場合はこちらを上書きしてください。
 - Handyman用 https://github.com/Taro-Hayashi/Handyman/releases/download/0.18.14/ENCODER.JSN
 - Cannonball用 https://github.com/Taro-Hayashi/Cannonball/releases/download/0.18.14/ENCODER.JSN
 
