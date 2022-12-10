@@ -88,7 +88,8 @@
 ## はんだ付け
 はんだ付けのやり方は動画で見るとわかりやすいです。  
 パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
- - ホームセンターのDCMさんの解説動画(58秒～)  [YouTube](https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s)
+ - ホームセンターのDCMさんの解説動画(58秒～)  
+[![](http://img.youtube.com/vi/JFQg_ObITYE/0.jpg)](https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s)  
 
 ### LEDのはんだ付け
 LEDを取り付ける場合はメインボードに最初にはんだ付けします。  
