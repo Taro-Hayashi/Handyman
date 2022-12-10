@@ -8,7 +8,7 @@
 - [その他](#その他)
 
 ## キット内容
-![](img/IMG_5094.jpg)
+![](img/IMG_0994.jpg)
 ||部品名|数| |
 |-|-|-|-|
 |1|メインボード|各1||
@@ -76,7 +76,7 @@
 
 ## 準備
 左右どちらで作るかを選びます。  
-![](img/IMG_5091.jpg)  
+![](img/IMG_1001.jpg)  
 
 キットに付属のPro MicroはMicro-USB端子がもげやすいのでエポシキ接着剤で補強します。  
 ![](img/IMG_4972.jpg)  
@@ -88,7 +88,8 @@
 ## はんだ付け
 はんだ付けのやり方は動画で見るとわかりやすいです。  
 パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
- - ホームセンターのDCMさんの解説動画(58秒～)  [YouTube](https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s)
+ - ホームセンターのDCMさんの解説動画(58秒～)  
+[![](http://img.youtube.com/vi/JFQg_ObITYE/0.jpg)](https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s)  
 
 ### LEDのはんだ付け
 LEDを取り付ける場合はメインボードに最初にはんだ付けします。  
