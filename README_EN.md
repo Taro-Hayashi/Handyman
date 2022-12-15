@@ -45,19 +45,23 @@
 
 ## Soldering
 Install the diodes from D1 to D26.  
-![](img/IMG_5102.jpg)  
+![](img/IMG_1077.jpeg)  
 Diodes have a direction.  
 
 Bend the legs parallel to the diode to prevent interference with the key switch later.  
-![](img/IMG_5103.jpg)  
+![](img/IMG_1083.jpeg)  
 
 Solder and cut the legs.  
-![](img/IMG_5104.jpg)   
+![](img/IMG_1086.jpeg)  
 
 Solder Tactile Switches.  
-![](img/IMG_5106.jpg)   
+![](img/IMG_1096.jpeg)  
 If you want to remove the flux from the surface, now is the time.  
-![](img/IMG_5107.jpg)   
+![](img/IMG_1102.jpeg)   
+
+
+
+
 
 Solder Switches.  
 ![](img/IMG_5108.jpg)  
@@ -82,12 +86,11 @@ Solder the front side.
 ![](img/IMG_5017.jpg)   
 
 Solder rotary encoders.  
-![](img/IMG_5120.jpg)  
-![](img/IMG_5121.jpg)  
-![](img/IMG_5122.jpg)  
-![](img/IMG_5123.jpg)  
-![](img/IMG_5124.jpg)  
-![](img/IMG_5125.jpg)  
+![](img/IMG_1192.jpg)   
+![](img/IMG_1200.jpeg)   
+![](img/IMG_1206.jpeg)  
+![](img/IMG_1217.jpeg)  
+![](img/IMG_1223.jpeg)
 
 ## Testing
 Connect one of them to the PC with a USB cable.  
@@ -108,28 +111,25 @@ If there are no problems, soldering is finished.
 ## Assembling
 Disconnect the USB cable. 
 
-Attach the short and middle spacers to the red circle.  
-![](img/IMG_5127.jpg)  
-There will be middle spacers on the side of the key switch.  
-![](img/IMG_5128.jpg)  
-
 Attach short spacers on the back of the main board with short screws.  
 And fit the middle plate #1.  
-![](img/IMG_5131.jpg)  
+![](img/IMG_1299.jpg)   
+ここの3箇所は表側はネジではなくスペーサー（中）で止めます。
+![](img/IMG_1230.jpg) 
 
 Fasten the middle plate #2 and the back plate with long screws.  
-![](img/IMG_5132.jpg)  
-![](img/IMG_5133.jpg)  
+![](img/IMG_1314.jpeg) 
+![](img/IMG_1319.jpeg)  
 
 Attach cover plate to the front with middle screws.  
-![](img/IMG_5134.jpg)  
+![](img/IMG_1334.jpeg)  
 
 After installing the keycap, follow the same procedure as before to update the firmware for production.  
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
 ![](img/remap06.jpg)  
 
 Attaching the knob and rubber feet.  
-![](img/IMG_5137.jpg)  
+![](img/IMG_1345.jpeg)  
 
 Thank you for your time.  
 
