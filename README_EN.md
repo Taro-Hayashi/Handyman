@@ -18,8 +18,8 @@
 |6|Short screws|9|3mm|
 |7|Middle screws|3|4mm|
 |8|Long screws|12|6mm|
-|9|Short spacer|12|3mm|
-|10|Middle spacer|3|4mm|
+|9|Short spacers|12|3mm|
+|10|Middle spacers|3|4mm|
 |11|Diodes|26|1N4148|
 |12|Tactile Switch|1||
 |13|Dial rotary encoder|1|EC11|
@@ -60,28 +60,27 @@ If you want to remove the flux from the surface, now is the time.
 ![](img/IMG_1102.jpeg)   
 
 
-Pro Microの取り付け場所にピンヘッダーの短い側を差し込みます。
+Insert the short side of the pin header into the Pro Micro mounting location.  
 ![](img/IMG_1117.jpeg)  
-Pro Mioroを乗せますが、はんだ付けはせず表にします。
+Place Pro Micro on top, but do not solder it. Leave it on the front.  
 ![](img/IMG_1118.jpeg) 
 ![](img/IMG_1129.jpeg)  
-メインボードにピンヘッダーをはんだ付けします。
+Solder pin headers to the main board.  
 ![](img/IMG_1134.jpeg)  
 
-ここの二つのキースイッチは足がPro Microと干渉するので短く切ります。
+The two keyswitches here are cut short because their feet interfere with the Pro Micro.  
 ![](img/IMG_1150.jpeg)  
-差し込んだ状態で短く切りましょう。
+Cut it short while it is inserted.  
 ![](img/IMG_1137.jpg)  
-Choc V2の場合は3本の足を、Choc V1では2本の足と固定用品の一つを短くします。
+For Choc V2, shorten three legs; for Choc V1, shorten two legs and one of the fixing supplies.  
 ![](img/IMG_1145.jpg)  
 ![](img/IMG_1148.jpg)  
-全てのスイッチをはんだ付けします。　　
+Solder all switches.　
 ![](img/IMG_1162.jpeg)  
 
-隠れてしまうダイオードD1の方向が合っているか、キースイッチの足がはんだ付けされているかを再度確認してください。  
-Micro-USB端子がショートしやすいのでカプトンテープやマスキングテープなどで絶縁します。  
+Insulate the Micro-USB terminals with Kapton tape or masking tape, as they are prone to short circuits. 
 ![](img/IMG_1173.jpeg)  
-足をニッパーで切ったらはんだ付けします。
+After cutting the legs, solder them.  
 ![](img/IMG_1174.jpeg)  
 ![](img/IMG_1184.jpeg)  
 
@@ -114,11 +113,12 @@ Disconnect the USB cable.
 Attach short spacers on the back of the main board with short screws.  
 And fit the middle plate #1.  
 ![](img/IMG_1299.jpg)   
-ここの3箇所は表側はネジではなくスペーサー（中）で止めます。
+The three places here on the front side are not held in place by screws, but by middle spacers.
 ![](img/IMG_1230.jpg) 
 
 Fasten the middle plate #2 and the back plate with long screws.  
 ![](img/IMG_1314.jpeg) 
+Put rubber feet.
 ![](img/IMG_1319.jpeg)  
 
 Attach cover plate to the front with middle screws.  
@@ -128,7 +128,7 @@ After installing the keycap, follow the same procedure as before to update the f
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
 ![](img/remap06.jpg)  
 
-Attaching the knob and rubber feet.  
+Attaching the knob and keycaps.  
 ![](img/IMG_1345.jpeg)  
 
 Thank you for your time.  
