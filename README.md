@@ -42,7 +42,7 @@
 |-|-|-|
 |[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|22|バックライト|
 |[WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|6|アンダーグロー|
-|[色違いアクリルプレート（左手用）(https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890200740071)|||
+|[色違いアクリルプレート（左手用）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890200740071)|||
 |[色違いアクリルプレート（右手用）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890207719655)|||
 |[アクリルバックプレート](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890215583975)|||
 |[コンスルー 12ピン](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)|2|高さ2.5mm, [使い方](conthrough.md)|
