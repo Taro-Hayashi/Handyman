@@ -7,7 +7,7 @@
 
 
 ## Contents
-![](img/IMG_5094.jpg)
+![](img/IMG_0994.jpg)
 ||Name|Quantities| |
 |-|-|-|-|
 |1|Main board|1||
