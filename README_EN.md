@@ -60,30 +60,30 @@ If you want to remove the flux from the surface, now is the time.
 ![](img/IMG_1102.jpeg)   
 
 
+Pro Microの取り付け場所にピンヘッダーの短い側を差し込みます。
+![](img/IMG_1117.jpeg)  
+Pro Mioroを乗せますが、はんだ付けはせず表にします。
+![](img/IMG_1118.jpeg) 
+![](img/IMG_1129.jpeg)  
+メインボードにピンヘッダーをはんだ付けします。
+![](img/IMG_1134.jpeg)  
 
+ここの二つのキースイッチは足がPro Microと干渉するので短く切ります。
+![](img/IMG_1150.jpeg)  
+差し込んだ状態で短く切りましょう。
+![](img/IMG_1137.jpg)  
+Choc V2の場合は3本の足を、Choc V1では2本の足と固定用品の一つを短くします。
+![](img/IMG_1145.jpg)  
+![](img/IMG_1148.jpg)  
+全てのスイッチをはんだ付けします。　　
+![](img/IMG_1162.jpeg)  
 
-
-Solder Switches.  
-![](img/IMG_5108.jpg)  
-The two switches here may come in contact with the Pro Micro, so cut off the legs before soldering.  
-![](img/IMG_5109.jpg)  
-In the case of the choc V1 switch, one of the legs will interfere with the switch, so cut it short.  
-![](img/IMG_5110.jpg)  
-
-Insulate the USB terminal of the Promicro where it is shorted.  
-![](img/IMG_5113.jpg)   
-
-Plug the short end of the pin header into the board.  
-![](img/IMG_5114.jpg)   
-
-Place the Pro Micro and cut off the pins.  
-![](img/IMG_5115.jpg)   
-![](img/IMG_5116.jpg)   
-
-Solder Pro Micro.  
-![](img/IMG_5014.jpg)   
-Solder the front side.
-![](img/IMG_5017.jpg)   
+隠れてしまうダイオードD1の方向が合っているか、キースイッチの足がはんだ付けされているかを再度確認してください。  
+Micro-USB端子がショートしやすいのでカプトンテープやマスキングテープなどで絶縁します。  
+![](img/IMG_1173.jpeg)  
+足をニッパーで切ったらはんだ付けします。
+![](img/IMG_1174.jpeg)  
+![](img/IMG_1184.jpeg)  
 
 Solder rotary encoders.  
 ![](img/IMG_1192.jpg)   
