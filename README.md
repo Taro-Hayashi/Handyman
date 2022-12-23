@@ -96,7 +96,7 @@ LEDを取り付ける場合はメインボードに最初にはんだ付けし�
  - [LEDの取り付け方](led.md)  
 
 ### ダイオード、リセットスイッチのはんだ付け
-D1からD26まで取り付けます。  
+D1からD26までダイオードを取り付けます。  
 足を曲げて裏から差し込みます。  
 ![](img/IMG_1077.jpeg)  
 ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
@@ -116,11 +116,12 @@ D1からD26まで取り付けます。
 ### ピンヘッダーのはんだ付け（Pro Microはまだはんだ付けしません）
 Pro Microの取り付け場所にピンヘッダーの短い側を差し込みます。
 ![](img/IMG_1117.jpeg)  
-Pro Mioroを乗せますが、はんだ付けはせず表にします。
+位置決めのためにPro Mioroを乗せますが、はんだ付けはせず表にします。
 ![](img/IMG_1118.jpeg) 
 ![](img/IMG_1129.jpeg)  
 メインボードにピンヘッダーをはんだ付けします。
 ![](img/IMG_1134.jpeg)  
+Pro Microをいったん外します。
 
 ### キースイッチのはんだ付け
 
@@ -189,7 +190,7 @@ SW20に表からダイヤル型のロータリーエンコーダーを取り付�
 USBケーブルを抜いてプレートを組付けます。  
 アクリルからは保護フィルムを剥がしてください。割れやすいので気をつけましょう。  
 
-メインボード裏面の残りのネジ穴にスペーサー（短）をネジ（短）で取り付けてミドルプレート1（透明）を嵌めます。
+メインボードのネジ穴にスペーサー（短）をネジ（短）で取り付けてミドルプレート1（透明）を嵌めます。
 ![](img/IMG_1299.jpg)   
 ここの3箇所は表側はネジではなくスペーサー（中）で止めます。
 ![](img/IMG_1230.jpg) 
@@ -235,20 +236,20 @@ ChromeかEdgeでRemapにアクセスしてください。
 ![](img/re.jpg)  
 
 ## その他
-Bluetooth接続
+### Bluetooth接続
 - [BLE Micro Pro使用例](ble.md)
 
-ファームウェアのフォルダ  
+### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/handyman
 
-VIA用JSONファイル [handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman.json)  
+### VIA用JSONファイル
+[handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman.json)  
 
-プレートのデザインデータ  
+### プレートのデザインデータ  
 [handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/14.35/handyman_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
-ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。   
-
+### 謝辞
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
 https://github.com/foostan/kbd/blob/master/LICENSE  
@@ -259,5 +260,6 @@ https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この キット は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
 
+### 販売サイト
 - 遊舎工房: https://shop.yushakobo.jp/collections/keyboard/products/2795   
 - BOOTH: https://tarohayashi.booth.pm/items/3208122
