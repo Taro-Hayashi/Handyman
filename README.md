@@ -38,6 +38,8 @@
 |Micro USB ケーブル|1||
 
 ### オプション
+ - [Pro Micro互換品とコンスルーの対応表](promicro.md)  
+ 
 |部品名|数||
 |-|-|-|
 |[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|22|バックライト|
@@ -45,7 +47,6 @@
 |[色違いアクリルプレート（左手用）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890200740071)|||
 |[色違いアクリルプレート（右手用）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890207719655)|||
 |[アクリルバックプレート](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890215583975)|||
-|[コンスルー 12ピン、高さ2.5mm](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)|2|[使い方](conthrough.md)|
 
 
 ### 必要な工具
