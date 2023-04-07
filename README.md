@@ -37,7 +37,6 @@
 |Micro USB ケーブル|1||
 
 ### オプション
- - [Pro Micro互換品とコンスルーの対応表](promicro.md)  
  
 |部品名|数||
 |-|-|-|
@@ -46,7 +45,7 @@
 |[色違いアクリルプレート（左手用）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890200740071)|||
 |[色違いアクリルプレート（右手用）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890207719655)|||
 |[アクリルバックプレート](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890215583975)|||
-
+ - [Pro Micro互換品とコンスルーの対応表](promicro.md)  
 
 ### 必要な工具
 |工具名|
