@@ -61,6 +61,8 @@ USB Type-Cに変更する場合
 - [コンスルーの使用方法とPro Micro互換品の対応表](promicro.md)  
 
 色違いのアクリルプレート
+|部品名|数||
+|-|-|-|
 |[キーボードアクリルプレート（左手用）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890200740071)|||
 |[キーボードアクリルプレート（右手用）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890207719655)|||
 |[キーボードアクリルプレート（バックプレート）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890215583975)|||
