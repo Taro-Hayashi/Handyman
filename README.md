@@ -35,17 +35,6 @@
 |キーキャップ|22|V1は[専用キーキャップ](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)、V2は[CherryMX互換](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97)です。|
 |Micro USB ケーブル|1||
 
-### オプション
- 
-|部品名|数||
-|-|-|-|
-|[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|22|バックライト|
-|[WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|6|アンダーグロー|
-|[色違いアクリルプレート（左手用）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890200740071)|||
-|[色違いアクリルプレート（右手用）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890207719655)|||
-|[アクリルバックプレート](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890215583975)|||
- - [Pro Micro互換品とコンスルーの対応表](promicro.md)  
-
 ### 必要な工具
 |工具名|
 |-|
@@ -55,6 +44,26 @@
 |ニッパー等ダイオードの足を切れるもの|
 |マスキングテープ等絶縁できるテープ|
 |エポシキ接着剤|
+
+### オプション
+
+LEDを光らせる場合
+|部品名|数||
+|-|-|-|
+|[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|22|バックライト|
+|[WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|6|アンダーグロー|
+
+USB Type-Cに変更する場合
+|部品名|数||
+|-|-|-|
+|Type-C版Pro Micro|1|[DailyCraftKeyboard](https://shop.dailycraft.jp/products/promicro_typec)、 [Talpkeyboard](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)、[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
+|3.5mmコンスルー|2|[DailyCraftKeyboard](https://shop.dailycraft.jp/products/conthrough_12_35)[Talpkeyboard](https://talpkeyboard.net/items/6229e8c130344b271f290c3c)、[マルツ電子](https://www.marutsu.co.jp/pc/i/2349912/)、|
+- [コンスルーの使用方法とPro Micro互換品の対応表](promicro.md)  
+
+色違いのアクリルプレート
+|[キーボードアクリルプレート（左手用）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890200740071)|||
+|[キーボードアクリルプレート（右手用）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890207719655)|||
+|[キーボードアクリルプレート（バックプレート）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890215583975)|||
 
 ## 準備
 左右どちらで作るかを選びます。  
