@@ -126,6 +126,7 @@ Attach cover plate to the front with middle screws.
 
 After installing the keycap, follow the same procedure as before to update the firmware for production.  
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
+
 ![](img/remap06.jpg)  
 
 Attaching the knob and keycaps.  
@@ -135,7 +136,6 @@ Thank you for your time.
 
 ## Customise
 ![](img/layout.png)  
-[Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/b1de3d8b33b46ababd2dff071c8af257)  
 
 Access Remap.  
 - Remap https://remap-keys.app/
@@ -151,10 +151,10 @@ Firmware
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/handyman
 
 JSON for Remap/VIA  
-[handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman.json)  
+[handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/latest/download/handyman.json)  
 
 Plates data   
-[handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/14.31/handyman_plates.zip)  
+[handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/latest/download/handyman_plates.zip)  
 
 Used foostan's footprint.  
 https://github.com/foostan/kbd/  
