@@ -221,6 +221,10 @@ ChromeかEdgeでRemapにアクセスしてください。
 レイアウトオプションでどちら側か選ぶことができます。  
 ![](img/h.jpg)  
 
+### 特殊なキーを設定する
+FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカットキーがあります。
+![](img/shortcuts.png)  
+
 ## レイアウトの保存と復元
 ⇔アイコンで作ったレイアウトを保存することができます。  
 いくつかサンプルがをご用意しました。自分のレイアウトを公開することもできるので是非お試しください。
@@ -234,10 +238,10 @@ ChromeかEdgeでRemapにアクセスしてください。
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/handyman
 
 ### VIA用JSONファイル
-[handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/download/14.19/handyman.json)  
+[handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/latest/download/handyman.json)  
 
 ### プレートのデザインデータ  
-[handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/download/14.35/handyman_plates.zip)  
+[handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/latest/download/handyman_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
 ### 謝辞
