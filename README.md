@@ -238,9 +238,6 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 ### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/handyman
 
-### VIA用JSONファイル
-[handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/latest/download/handyman.json)  
-
 ### プレートのデザインデータ  
 [handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/latest/download/handyman_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
