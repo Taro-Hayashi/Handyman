@@ -150,9 +150,6 @@ After Drag-and-Drop the keys, press the flash button in the upper right corner.
 Firmware  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/handyman
 
-JSON for Remap/VIA  
-[handyman.json](https://github.com/Taro-Hayashi/Handyman/releases/latest/download/handyman.json)  
-
 Plates data   
 [handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/latest/download/handyman_plates.zip)  
 
