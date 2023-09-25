@@ -242,8 +242,6 @@ Hold-Tapもここから設定できます。
 FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカットキーがあります。
 ![](img/remapshortcuts.png)  
 ## その他
-### Bluetooth接続
-- [BLE Micro Pro使用例](ble.md)
 
 ### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/handyman
