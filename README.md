@@ -53,13 +53,6 @@ LEDを光らせる場合
 |[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|22|バックライト|
 |[WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|6|アンダーグロー|
 
-USB Type-Cに変更する場合
-|部品名|数||
-|-|-|-|
-|Type-C版Pro Micro|1|[DailyCraftKeyboard](https://shop.dailycraft.jp/products/promicro_typec)、 [Talpkeyboard](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)、[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
-|3.5mmコンスルー|2|[DailyCraftKeyboard](https://shop.dailycraft.jp/products/conthrough_12_35)、[Talpkeyboard](https://talpkeyboard.net/items/6229e8c130344b271f290c3c)、[マルツ電子](https://www.marutsu.co.jp/pc/i/2349912/)、|
-- [コンスルーの使用方法とPro Micro互換品の対応表](promicro.md)  
-
 色違いのアクリルプレート
 |部品名|数||
 |-|-|-|
@@ -145,14 +138,15 @@ Micro-USB端子がショートしやすいのでカプトンテープやマス�
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
 
 テストファームウェアを選んでFLASHします。
-![](img/remap02.jpg)  
-![](img/remap03.jpg)  
+![](img/firmwaretest.png)  
+![](img/firmware2.png)  
 
 キット裏面のリセットスイッチを押すとArduino Microが現れるので、クリックして接続します（初回のみリセットスイッチを2回押す必要があることがあります）。
-![](img/remap04.jpg) 
+![](img/firmware3.png) 
 
 書き込みが完了したらウィンドウを閉じて大丈夫です。
-![](img/remap05.jpg) 
+
+![](img/firmware4.png) 
 
 アドレスバーやテキストエディタを使ってすべてのスイッチが反応することを確かめてください。
 
@@ -201,36 +195,52 @@ USBケーブルを抜いてプレートを組付けます。
 先ほどと同様の手順で本番用のファームウェアに更新しましょう。
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
   
-![](img/remap06.jpg)  
-
+![](img/firmware1.png)  
 ## キーのカスタマイズ
+
 標準ではUS配列設定でのClip Studio Paintにあわせたキーマップになっています。  
 ![](img/keymap.png)  
-
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
 
-ChromeかEdgeでRemapにアクセスしてください。  
+こちらのサイトにアクセスしてください。
 - Remap https://remap-keys.app
 
 ![](img/remap1.png)  
-左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。  
-
-ドラッグアンドドロップで変更が終わったら右上のflashボタンを押すと反映されます。  
+左を選んで進んでいくとダイアログが出てキーボードを選択できます。  
+![](img/remap2.png)  
+選択して接続してください。
 ![](img/remap3.png)  
+標準ではUS配列設定でのClip Studio Paintにあわせたキーマップになっています。  
 
-## 右手用に表示を変える
-レイアウトオプションでどちら側か選ぶことができます。  
-![](img/h.jpg)  
+### キーマップの保存と復元
+⇔アイコンで作ったキーマップを保存することができます。  
+![](img/remapkey.png)  
+作ったキーマップを共有することもできるので是非お試しください。
+
+### 左右を変える
+レイアウトオプションで左右を変えることができます。  
+![](img/remaplayout.png)  
+
+### キーを設定する
+下のキー一覧からドラッグアンドドロップし、変更が終わったら右上のflashボタンを押すと反映されます。  
+![](img/remapflash.png)  
+また、USキーボードとJISキーボードはFlashの下のプルダウンから変更できます。OSの設定に合わせてください。
+
+### 修飾キーとの組み合わせを設定する
+上のキーボードのキーをクリックすると設定画面になります。
+![](img/remapmod1.png)  
+修飾キーと同時押ししたいキーを検索し、同時押ししたい修飾キーにチェックを入れます。
+![](img/remapmod2.png)  
+
+Hold-Tapもここから設定できます。
+
+### ロータリーエンコーダーを設定する
+丸いキーの左下をクリックすると時計回り、反時計回り、押し込みを切り替えることができるので、それぞれにキーを割り当てます。
+![](img/remapenc.png)  
 
 ### 特殊なキーを設定する
 FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカットキーがあります。
-![](img/shortcuts.png)  
-
-## レイアウトの保存と復元
-⇔アイコンで作ったレイアウトを保存することができます。  
-いくつかサンプルがをご用意しました。自分のレイアウトを公開することもできるので是非お試しください。
-![](img/re.jpg)  
-
+![](img/remapshortcuts.png)  
 ## その他
 ### Bluetooth接続
 - [BLE Micro Pro使用例](ble.md)

@@ -97,12 +97,12 @@ Access Remap's firmware page with Chrome or Edge.
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
 
 Flash the Test firmware.  
-![](img/remap02.jpg)  
-![](img/remap03.jpg)  
+![](img/firmwaretest.png)  
+![](img/firmware2.png)  
 
-Push the tactile switch.  
-![](img/remap04.jpg) 
-![](img/remap05.jpg) 
+Push the tactile switch. 
+![](img/firmware3.png)  
+![](img/firmware4.png)  
 
 Make sure all switches are responsive.  
 If there are no problems, soldering is finished.  
@@ -127,6 +127,8 @@ Attach cover plate to the front with middle screws.
 After installing the keycap, follow the same procedure as before to update the firmware for production.  
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
 
+![](img/firmware1.png)  
+
 ![](img/remap06.jpg)  
 
 Attaching the knob and keycaps.  
@@ -142,6 +144,8 @@ Access Remap.
 
 Select the blue button on the left to proceed.  
 ![](img/remap1.png)  
+ 
+![](img/remap2.png)  
 
 After Drag-and-Drop the keys, press the flash button in the upper right corner.  
 ![](img/remap3.png)  
