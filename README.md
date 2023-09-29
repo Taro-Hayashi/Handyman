@@ -197,10 +197,7 @@ USBケーブルを抜いてプレートを組付けます。
   
 ![](img/firmware1.png)  
 ## キーのカスタマイズ
-![](img/keymap.png)  
-使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
-
-こちらのサイトにアクセスしてください。
+こちらのサイトにGoogle Chrome（Chromiumベースのブラウザ）でアクセスしてください。
 - Remap https://remap-keys.app
 
 ![](img/remap1.png)  
@@ -242,7 +239,7 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 
 ### LEDを調整する
 このボタンで発光方法を変更することができます。
-![](../img/custom/remapled.png)  
+![](../img/remapledset.png)  
 
 ## その他
 
