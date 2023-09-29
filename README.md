@@ -241,6 +241,11 @@ Hold-Tapもここから設定できます。
 ### 特殊なキーを設定する
 FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカットキーがあります。
 ![](img/remapshortcuts.png)  
+
+### LEDを調整する
+このボタンで発光方法を変更することができます。
+![](../img/custom/remapled.png)  
+
 ## その他
 
 ### ファームウェアのフォルダ  
