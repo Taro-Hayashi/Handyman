@@ -192,17 +192,12 @@ USBケーブルを抜いてプレートを組付けます。
 マイナスドライバーでノブを取りつけ、キーキャップを付けたら完成です。
 ![](img/IMG_1345.jpeg)  
 
-先ほどと同様の手順で本番用のファームウェアに更新しましょう。
+先ほどと同様の手順でRemap用のファームウェアに更新しましょう。
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
   
 ![](img/firmware1.png)  
 ## キーのカスタマイズ
-
-標準ではUS配列設定でのClip Studio Paintにあわせたキーマップになっています。  
-![](img/keymap.png)  
-使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
-
-こちらのサイトにアクセスしてください。
+こちらのサイトにGoogle Chrome（Chromiumベースのブラウザ）でアクセスしてください。
 - Remap https://remap-keys.app
 
 ![](img/remap1.png)  
@@ -244,7 +239,7 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 
 ### LEDを調整する
 このボタンで発光方法を変更することができます。
-![](../img/custom/remapled.png)  
+![](img/remapledset.png)  
 
 ## その他
 
