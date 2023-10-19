@@ -5,7 +5,7 @@
 ## ファームウェアの書き込み
 到着したらまずは最新のファームウェアを書き込みます。
 
-- https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
+- https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
   
 Google ChromeかMicrosoft Edgeでこちらのサイトにアクセスし、Remap用ファームウェアのFlashをクリックします。
 
