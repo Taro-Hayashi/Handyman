@@ -3,11 +3,12 @@
 ![](img/preassembled.jpg) 
   
 ## ファームウェアの書き込み
-到着したらまずは最新のファームウェアを書き込みます。
+到着したらまずは動作ソフト（ファームウェア）をHandymanに書き込みます。  
+Google Chrome（Microsoft Edge）でこちらにアクセスし、Remap用ファームウェアのFlashをクリックします。
 
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
   
-Google ChromeかMicrosoft Edgeでこちらのサイトにアクセスし、Remap用ファームウェアのFlashをクリックします。
+
 
 ![](img/firmware1.png) 
 ![](img/firmware2.png) 
@@ -25,7 +26,7 @@ CLOSEを押してキーのカスタマイズに移ります。
 ## キーのカスタマイズ
 
 
-こちらのサイトにアクセスしてください。
+Google Chrome（Microsoft Edge）でこちらにアクセスしてください。
 - Remap https://remap-keys.app
 
 ![](img/remap1.png)  
