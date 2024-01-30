@@ -1,6 +1,6 @@
 # 電池ボックスの使い方
 ![](img/IMG_0909.jpg)
-※現在BOOTHで販売中の基板のみ対応しています。
+※現在はBOOTHで販売中の基板のみ対応しています。
 
 ## 用意するもの
 |||
@@ -12,8 +12,8 @@
 |[スライドスイッチ](https://akizukidenshi.com/catalog/g/g113989/)|1|
 |[BLE Micro Pro](https://shop.yushakobo.jp/products/ble-micro-pro)|1|
 
-## ご注意
-- BLE Micro Proの使い方や組み立て方は各製品のものをご覧ください。
+[!WARNING]
+BLE Micro Proの使い方や組み立て方は各製品のものをご覧ください。
 
 ## 組み立て
    
