@@ -17,8 +17,8 @@
 |[スライドスイッチ](https://akizukidenshi.com/catalog/g/g113989/)|1|
 |[BLE Micro Pro](https://shop.yushakobo.jp/products/ble-micro-pro)|1|
 
-[!WARNING]
-BLE Micro Proの使い方や組み立て方は各製品のものをご覧ください。
+> [!NOTE]
+> BLE Micro Proの使い方や組み立て方は各製品のものをご覧ください。
 
 ## 組み立て
    
