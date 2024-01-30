@@ -19,7 +19,8 @@
 |[BLE Micro Pro](https://shop.yushakobo.jp/products/ble-micro-pro)|1|
 
 > [!NOTE]
-> BLE Micro Proの使い方は製品のサイトをご覧ください。
+> BLE Micro Proの使い方は製品のサイトをご覧ください。  
+> ピンソケットの代わりに3.5mm コンスルーでの取り付けも可能です。
 
 ## 組み立て
 スライドスイッチを取り付ける場所に予備はんだを盛ります。
