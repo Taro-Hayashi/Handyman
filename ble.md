@@ -1,10 +1,13 @@
 # 電池ボックスの使い方
 ![](img/IMG_0909.jpg)
 
-> [!IMPORTANT] 
-> 現在はBOOTHで販売中の基板のみ対応しています。
 
 ## 用意するもの
+> [!IMPORTANT] 
+> 現在電池ボックスの取り付けに対応しているのはBOOTHで販売中のキットのみです。
+
+![](img/IMG_0746.jpg)
+
 |||
 |-|-|
 |[ピンヘッダー](https://akizukidenshi.com/catalog/g/g100167/)|合計26ピン以上|
