@@ -5,7 +5,7 @@
 ## 用意するもの
 > [!IMPORTANT] 
 > 電池ボックスの取り付けに対応しているのは現在はBOOTHで販売中のキットのみとなっています。
-> https://tarohayashi.booth.pm/items/3208122
+> https://tarohayashi.booth.pm/items/3208122  
 > はんだ付けが難しめです。
 
 ![](img/IMG_0746.jpg)
