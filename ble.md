@@ -8,7 +8,7 @@
 
 ![](img/IMG_0746.jpg)
 
-|||
+|部品（購入先の例）|個数|
 |-|-|
 |[ピンヘッダー](https://akizukidenshi.com/catalog/g/g100167/)|合計26ピン以上|
 |[シングルピンソケット (低メス) ](https://akizukidenshi.com/catalog/g/g100661/)|合計26ピン以上（リンク先なら2個）|
