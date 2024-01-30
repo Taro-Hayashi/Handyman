@@ -18,7 +18,7 @@
 |[BLE Micro Pro](https://shop.yushakobo.jp/products/ble-micro-pro)|1|
 
 > [!NOTE]
-> BLE Micro Proの使い方や組み立て方は各製品のものをご覧ください。
+> BLE Micro Proの使い方は製品のサイトをご覧ください。
 
 ## 組み立て
    
