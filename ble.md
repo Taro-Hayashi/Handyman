@@ -12,7 +12,7 @@
 |部品（購入先の例）|個数|
 |-|-|
 |[ピンヘッダー](https://akizukidenshi.com/catalog/g/g100167/)|合計26ピン以上|
-|[シングルピンソケット (低メス) ](https://akizukidenshi.com/catalog/g/g100661/)|合計26ピン以上（リンク先なら2個）|
+|[シングルピンソケット](https://akizukidenshi.com/catalog/g/g100661/)|合計26ピン以上（リンク先なら2個）|
 |[電池ボックス 単4](https://akizukidenshi.com/catalog/g/g102670/)|1|
 |[XCL103使用3.3V出力昇圧DCDCコンバーターキット](https://akizukidenshi.com/catalog/g/g116116/)|1|
 |[スライドスイッチ](https://akizukidenshi.com/catalog/g/g113989/)|1|
