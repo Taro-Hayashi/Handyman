@@ -12,7 +12,7 @@ Google Chrome（Microsoft Edge）でこちらにアクセスし、Remap用ファ
 
 ![](img/firmware1.png) 
 ![](img/firmware2.png) 
-このようなダイアログが出てくるのでキット裏面のリセットスイッチを押すと新しく項目が出てきます。
+このような画面が出てくるのでキット裏面のリセットスイッチを押すと新しく項目が出てきます。
 ![](img/firmware3.png) 
 ![](img/ura.jpg) 
 
@@ -30,7 +30,7 @@ Google Chrome（Microsoft Edge）でこちらにアクセスしてください�
 - Remap https://remap-keys.app
 
 ![](img/remap1.png)  
-左を選んで進んでいくとダイアログが出てキーボードを選択できます。  
+左を選んで進んでいくとキーボードを選択できます。  
 ![](img/remap2.png)  
 選択して接続してください。
 ![](img/remap3.png)  
