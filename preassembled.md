@@ -12,21 +12,19 @@ Google Chrome（Microsoft Edge）でこちらにアクセスし、Remap用ファ
 
 ![](img/firmware1.png) 
 ![](img/firmware2.png) 
-このような画面が出てくるのでキット裏面のリセットスイッチを押すと新しく項目が出てきます。
-![](img/firmware3.png) 
+このような画面が出てくるのでキット裏面のリセットスイッチを２回素早く押すと新しく項目が出てきます。
 ![](img/ura.jpg) 
+![](img/firmware3.png) 
 
-※Type-C版をご購入の場合は2回素早く押してください。
-
-選択して接続を押すと書き込みが始まり、完了します。
+選択して接続を押すと書き込みが始まります。
 
 ![](img/firmware4.png) 
-CLOSEを押してキーのカスタマイズに移ります。
+CLOSEを押してファームウエアの書き込みは完了です。
 
 ## キーのカスタマイズ
 
 
-Google Chrome（Microsoft Edge）でこちらにアクセスしてください。
+Google ChromeかMicrosoft Edgeでこちらにアクセスしてください。
 - Remap https://remap-keys.app
 
 ![](img/remap1.png)  
