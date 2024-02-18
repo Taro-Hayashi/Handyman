@@ -3,7 +3,7 @@
 ![](img/preassembled.jpg) 
   
 ## ファームウェアの書き込み
-到着したらまずは動作ソフト（ファームウェア）をHandymanに書き込みます。  
+まず動作ソフト（ファームウェア）をHandymanに書き込みます。  
 Google ChromeかMicrosoft Edgeでこちらにアクセスし、Remap用ファームウェアのFlashをクリックします。
 
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
