@@ -2,6 +2,7 @@
 
 ## 内容品
 - Handyman マクロパッド 1個
+
 ![](img/preassembled.jpg) 
   
 ## ご用意いただくもの
