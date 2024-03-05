@@ -1,8 +1,8 @@
 # Handyman マクロパッド 取り扱い説明書
 
 ## 内容品
-![](img/preassembled.jpg) 
 - Handyman マクロパッド 1個
+![](img/preassembled.jpg) 
   
 ## ご用意いただくもの
 - Type-C USBケーブル
