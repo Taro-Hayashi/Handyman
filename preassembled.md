@@ -1,7 +1,13 @@
 # Handyman マクロパッド 取り扱い説明書
 
+## 内容品
 ![](img/preassembled.jpg) 
+- Handyman マクロパッド 1個
   
+## ご用意いただくもの
+- Type-C USBケーブル
+- Windows/Mac/Linux（iPad、Androiで使用はできますが設定ができません）
+
 ## ファームウェアの書き込み
 まず動作ソフト（ファームウェア）をHandymanに書き込みます。  
 Google ChromeかMicrosoft Edgeでこちらにアクセスし、Remap用ファームウェアのFlashをクリックします。
