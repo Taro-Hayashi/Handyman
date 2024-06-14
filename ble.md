@@ -3,11 +3,6 @@
 
 
 ## 用意するもの
-> [!IMPORTANT] 
-> 電池ボックスの取り付けに対応しているのは現在はBOOTHで販売中のキットのみとなっています。
-> https://tarohayashi.booth.pm/items/3208122  
-> はんだ付けが難しめです。
-
 ![](img/IMG_0746.jpg)
 
 |部品（購入先の例）|個数|
@@ -20,6 +15,7 @@
 |[BLE Micro Pro](https://shop.yushakobo.jp/products/ble-micro-pro)|1|
 
 > [!NOTE]
+> はんだ付けの難しいパーツがあります。
 > BLE Micro Proの使い方は製品のサイトをご覧ください。  
 > ピンソケットの代わりに3.5mm コンスルーでの取り付けも可能です。
 
