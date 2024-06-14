@@ -60,6 +60,9 @@ LEDを光らせる場合
 |[キーボードアクリルプレート（右手用）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890207719655)|||
 |[キーボードアクリルプレート（バックプレート）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890215583975)|||
 
+Bluetooth接続について
+ - [電池ボックスの使い方](ble.md) 
+
 ## 準備
 左右どちらで作るかを選びます。  
 ![](img/IMG_1001.jpg)  
