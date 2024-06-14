@@ -15,7 +15,7 @@
 |[BLE Micro Pro](https://shop.yushakobo.jp/products/ble-micro-pro)|1|
 
 > [!NOTE]
-> はんだ付けの難しいパーツがあります。
+> はんだ付けの難しいパーツがあります。  
 > BLE Micro Proの使い方は製品のサイトをご覧ください。  
 > ピンソケットの代わりに3.5mm コンスルーでの取り付けも可能です。
 
