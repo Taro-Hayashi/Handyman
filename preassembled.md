@@ -6,7 +6,7 @@
 ![](img/preassembled.jpg) 
   
 ## ご用意いただくもの
-- USBケーブル
+- Type-C USBケーブル
 - Windows/Mac/Linux（iPad、Androidでも使用できますが設定ができません）
 
 ## ファームウェアの書き込み
