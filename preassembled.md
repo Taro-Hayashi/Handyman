@@ -86,15 +86,7 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 ### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/handyman
 
-### 謝辞
-plut0nium様のフットプリントを流用、改変して使わせていただきました。  
-https://github.com/plut0nium/0xLib  
-https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt  
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この キット は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
-
 ### 販売サイト
-- 遊舎工房: https://shop.yushakobo.jp/collections/keyboard/products/2795   
 - BOOTH: https://tarohayashi.booth.pm/items/3208122
 
 
