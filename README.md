@@ -247,7 +247,7 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 ## その他
 
 ### ファームウェアのフォルダ  
-https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/handyman
+https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/_archive/handyman
 
 ### プレートのデザインデータ  
 [handyman_plates.zip](https://github.com/Taro-Hayashi/Handyman/releases/latest/download/handyman_plates.zip)  
